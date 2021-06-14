@@ -1,0 +1,2 @@
+#!/bin/bash
+find  /root/alx-system_engineering/0x02-shell_redirections -type f -empty

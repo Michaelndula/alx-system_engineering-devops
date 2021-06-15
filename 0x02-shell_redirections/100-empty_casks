@@ -1,2 +1,2 @@
 #!/bin/bash
-find  /root/alx-system_engineering/0x02-shell_redirections -type f -empty
+find . -empty | rev | cut -d '/' -f 1 | rev

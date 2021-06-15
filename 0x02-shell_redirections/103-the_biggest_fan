@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '{ print $1}' access.log.2016-05-08 | sort | uniq -c | sort
+awk '{ print $1}' access.log.2020-06-14 | sort | uniq -c | sort
